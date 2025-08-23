@@ -1,4 +1,4 @@
-# Hi there, I'm [Guru Prasad] 👋
+# Hi there, I'm Guru Prasad 👋
 
 ## About Me
 - 🔭 I'm currently working on ...
