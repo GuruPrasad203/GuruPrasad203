@@ -5,6 +5,18 @@
 - 🌱 I'm currently learning Machine Learning
 - 😄 Pronouns: he/him
 
+## 💻 Competitive Programming
+
+### LeetCode Progress
+
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=01jvqo2WOc&theme=dark&font=baloo)
+
+**📊 My Coding Journey:**
+- Solving problems daily
+- Improving algorithm skills
+- Preparing for technical interviews
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/01jvqo2WOc/)
 
 ## My Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
